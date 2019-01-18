@@ -1,0 +1,2 @@
+gfortran newton-raphson.f
+./a.out
